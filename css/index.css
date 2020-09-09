@@ -9,20 +9,23 @@
 	--web-application: true;
 	--web-enable-deep-linking: true;
 }
+
 :root {
 	--web-view-ids: index;
 }
+
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	border: none;
 }
+
 #index {
 	position: absolute;
 	width: 1366px;
 	height: 4525px;
-	background-color: rgba(255,255,255,1);
+	background-color: rgba(255, 255, 255, 1);
 	overflow: hidden;
 	--web-view-name: index;
 	--web-view-id: index;
@@ -34,10 +37,13 @@
 	--web-application: true;
 	--web-enable-deep-linking: true;
 }
+
 #Rectangle_9 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(0,100,255,1);
+	fill: rgba(0, 100, 255, 1);
 }
+
 .Rectangle_9 {
 	position: absolute;
 	overflow: visible;
@@ -46,10 +52,13 @@
 	left: 114px;
 	top: 504px;
 }
+
 #Ellipse_5 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_5 {
 	position: absolute;
 	overflow: visible;
@@ -58,6 +67,7 @@
 	left: 406px;
 	top: 508px;
 }
+
 #Ellipse_1 {
 	position: absolute;
 	width: 1473px;
@@ -66,9 +76,11 @@
 	top: -644px;
 	overflow: visible;
 }
+
 #Path_6 {
-	fill: rgba(36,139,253,0.612);
+	fill: rgba(36, 139, 253, 0.612);
 }
+
 .Path_6 {
 	overflow: visible;
 	position: absolute;
@@ -76,11 +88,13 @@
 	height: 1385px;
 	left: 515px;
 	top: -621px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Ellipse_3 {
-	fill: rgba(36,139,253,0.169);
+	fill: rgba(36, 139, 253, 0.169);
 }
+
 .Ellipse_3 {
 	position: absolute;
 	overflow: visible;
@@ -89,6 +103,7 @@
 	left: 492px;
 	top: -602px;
 }
+
 #Home {
 	left: 608px;
 	top: 35px;
@@ -101,8 +116,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Benefits {
 	left: 717px;
 	top: 35px;
@@ -115,8 +131,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Services {
 	left: 826px;
 	top: 35px;
@@ -129,8 +146,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Reviews {
 	left: 935px;
 	top: 35px;
@@ -143,8 +161,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Contacts {
 	left: 1044px;
 	top: 35px;
@@ -157,8 +176,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Request_a_call {
 	left: 1195px;
 	top: 35px;
@@ -171,17 +191,19 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Rectangle_1 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Rectangle_1 {
 	position: absolute;
 	overflow: visible;
@@ -190,9 +212,11 @@
 	left: 1158px;
 	top: 27px;
 }
+
 #Rectangle_2 {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Rectangle_2 {
 	position: absolute;
 	overflow: visible;
@@ -201,6 +225,7 @@
 	left: 803px;
 	top: 204px;
 }
+
 #Order_Translation {
 	left: 862px;
 	top: 242px;
@@ -213,12 +238,15 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
-	color: rgba(91,91,91,1);
+	color: rgba(91, 91, 91, 1);
 }
+
 #Rectangle_7 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_7 {
 	position: absolute;
 	overflow: visible;
@@ -227,15 +255,17 @@
 	left: 851px;
 	top: 535px;
 }
+
 #Rectangle_3 {
 	fill: transparent;
-	stroke: rgba(112,112,112,1);
+	stroke: rgba(112, 112, 112, 1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Rectangle_3 {
 	position: absolute;
 	overflow: visible;
@@ -244,15 +274,17 @@
 	left: 850px;
 	top: 308px;
 }
+
 #Rectangle_4 {
 	fill: transparent;
-	stroke: rgba(112,112,112,1);
+	stroke: rgba(112, 112, 112, 1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Rectangle_4 {
 	position: absolute;
 	overflow: visible;
@@ -261,15 +293,17 @@
 	left: 850px;
 	top: 380px;
 }
+
 #Rectangle_5 {
 	fill: transparent;
-	stroke: rgba(112,112,112,1);
+	stroke: rgba(112, 112, 112, 1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Rectangle_5 {
 	position: absolute;
 	overflow: visible;
@@ -278,13 +312,16 @@
 	left: 850px;
 	top: 452px;
 }
+
 .Rectangle_6:hover {
 	width: 246px;
 	height: 61px;
 }
+
 #Rectangle_6 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_6 {
 	position: absolute;
 	overflow: visible;
@@ -294,9 +331,11 @@
 	top: 532px;
 	transition: all .3s ease-out;
 }
+
 #Rectangle_27 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_27 {
 	position: absolute;
 	overflow: visible;
@@ -305,10 +344,13 @@
 	left: 575px;
 	top: 4203px;
 }
+
 #Rectangle_26 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_26 {
 	position: absolute;
 	overflow: visible;
@@ -317,6 +359,7 @@
 	left: 575px;
 	top: 4203px;
 }
+
 #Icon_feather-send {
 	position: absolute;
 	width: 23.666px;
@@ -325,6 +368,7 @@
 	top: 550px;
 	overflow: visible;
 }
+
 #Icon_feather-send_ {
 	position: absolute;
 	width: 23.666px;
@@ -333,6 +377,7 @@
 	top: 4213px;
 	overflow: visible;
 }
+
 #Submit {
 	left: 923px;
 	top: 549px;
@@ -345,8 +390,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Send {
 	left: 640px;
 	top: 4212px;
@@ -359,8 +405,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Icon_feather-plus-circle {
 	position: absolute;
 	width: 24.019px;
@@ -369,13 +416,16 @@
 	top: 462px;
 	overflow: visible;
 }
+
 #Rectangle_8:hover {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 #Rectangle_8 {
-	fill: rgba(0,100,255,1);
+	fill: rgba(0, 100, 255, 1);
 	transition: all .3s ease-out;
 }
+
 .Rectangle_8 {
 	position: absolute;
 	overflow: visible;
@@ -384,6 +434,7 @@
 	left: 113px;
 	top: 504px;
 }
+
 #ORDER_A_TRANSLATION {
 	left: 138px;
 	top: 520px;
@@ -396,8 +447,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Group_16 {
 	position: absolute;
 	width: 57px;
@@ -406,9 +458,11 @@
 	top: 504px;
 	overflow: visible;
 }
+
 #Ellipse_4 {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Ellipse_4 {
 	position: absolute;
 	overflow: visible;
@@ -417,19 +471,22 @@
 	left: 0px;
 	top: 0px;
 }
+
 #Polygon_1 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Polygon_1 {
 	overflow: hidden;
 	position: absolute;
 	width: 26px;
 	height: 22px;
-	transform: translate(-406px, -504px) matrix(1,0,0,1,424.948,521.9816) rotate(90deg);
+	transform: translate(-406px, -504px) matrix(1, 0, 0, 1, 424.948, 521.9816) rotate(90deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #We_know_more_than_100_language {
 	left: 113px;
 	top: 382px;
@@ -442,8 +499,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #BUREAU_OF_TRANSLATIONS {
 	left: 113px;
 	top: 303px;
@@ -456,8 +514,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 27px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #ORDERING_A_TRANSLATION_FROM_US {
 	left: 113px;
 	top: 787px;
@@ -470,8 +529,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 27px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #Multidisciplinary {
 	left: 114px;
 	top: 267px;
@@ -484,8 +544,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 16px;
-	color: rgba(246,94,93,1);
+	color: rgba(246, 94, 93, 1);
 }
+
 #Guaranteed {
 	left: 113px;
 	top: 751px;
@@ -498,12 +559,15 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 16px;
-	color: rgba(246,94,93,1);
+	color: rgba(246, 94, 93, 1);
 }
+
 #Ellipse_6 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_6 {
 	position: absolute;
 	overflow: visible;
@@ -512,10 +576,13 @@
 	left: 115px;
 	top: 207px;
 }
+
 #Ellipse_10 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_10 {
 	position: absolute;
 	overflow: visible;
@@ -524,10 +591,13 @@
 	left: 147px;
 	top: 207px;
 }
+
 #Ellipse_11 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_11 {
 	position: absolute;
 	overflow: visible;
@@ -536,17 +606,21 @@
 	left: 178px;
 	top: 207px;
 }
+
 #Ellipse_9:hover {
-	fill: rgba(0,100,255,1);
+	fill: rgba(0, 100, 255, 1);
 }
+
 .Ellipse_9:hover {
 	width: 27px;
 	height: 27px;
 }
+
 #Ellipse_9 {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 	transition: all .3s ease-out;
 }
+
 .Ellipse_9 {
 	position: absolute;
 	overflow: visible;
@@ -556,9 +630,11 @@
 	top: 207px;
 	transition: all .3s ease-out;
 }
+
 #Ellipse_7 {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Ellipse_7 {
 	position: absolute;
 	overflow: visible;
@@ -567,9 +643,11 @@
 	left: 147px;
 	top: 207px;
 }
+
 #Ellipse_8 {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Ellipse_8 {
 	position: absolute;
 	overflow: visible;
@@ -578,9 +656,11 @@
 	left: 178px;
 	top: 207px;
 }
+
 #Icon_awesome-facebook-f {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Icon_awesome-facebook-f {
 	overflow: visible;
 	position: absolute;
@@ -588,11 +668,13 @@
 	height: 14.226px;
 	left: 124px;
 	top: 212px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_awesome-twitter {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Icon_awesome-twitter {
 	overflow: visible;
 	position: absolute;
@@ -600,11 +682,13 @@
 	height: 11.819px;
 	left: 152px;
 	top: 214px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_zocial-linkedin {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Icon_zocial-linkedin {
 	overflow: visible;
 	position: absolute;
@@ -612,11 +696,13 @@
 	height: 11.729px;
 	left: 184px;
 	top: 214px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Ellipse_12 {
-	fill: rgba(0,80,255,1);
+	fill: rgba(0, 80, 255, 1);
 }
+
 .Ellipse_12 {
 	position: absolute;
 	overflow: visible;
@@ -625,9 +711,11 @@
 	left: 114px;
 	top: 34px;
 }
+
 #Ellipse_13 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_13 {
 	position: absolute;
 	overflow: visible;
@@ -636,6 +724,7 @@
 	left: 136px;
 	top: 41px;
 }
+
 #Tr {
 	left: 141px;
 	top: 42px;
@@ -648,8 +737,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #anslate {
 	left: 165px;
 	top: 42px;
@@ -662,8 +752,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(0,80,255,1);
+	color: rgba(0, 80, 255, 1);
 }
+
 #Group_1 {
 	position: absolute;
 	width: 44.312px;
@@ -672,15 +763,17 @@
 	top: 925.351px;
 	overflow: visible;
 }
+
 #Icon_awesome-thumbs-up {
 	fill: transparent;
-	stroke: rgba(0,80,255,1);
+	stroke: rgba(0, 80, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_awesome-thumbs-up {
 	overflow: visible;
 	position: absolute;
@@ -688,40 +781,45 @@
 	height: 38px;
 	left: 0px;
 	top: 24.531px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_weather-stars {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Icon_weather-stars {
 	overflow: visible;
 	position: absolute;
 	width: 17.184px;
 	height: 17.032px;
-	transform: translate(-1080.747px, -918.351px) matrix(1,0,0,1,1099.8141,919.775) rotate(-80deg);
+	transform: translate(-1080.747px, -918.351px) matrix(1, 0, 0, 1, 1099.8141, 919.775) rotate(-80deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #Icon_feather-star {
 	fill: transparent;
-	stroke: rgba(246,94,93,1);
+	stroke: rgba(246, 94, 93, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_feather-star {
 	overflow: visible;
 	position: absolute;
 	width: 14.693px;
 	height: 13.973px;
-	transform: translate(-1080.747px, -918.351px) matrix(1,0,0,1,1109.6761,935.7) rotate(6deg);
+	transform: translate(-1080.747px, -918.351px) matrix(1, 0, 0, 1, 1109.6761, 935.7) rotate(6deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #Group_1_b {
 	position: absolute;
 	width: 44.312px;
@@ -730,15 +828,17 @@
 	top: 925.351px;
 	overflow: visible;
 }
+
 #Icon_awesome-thumbs-up_b {
 	fill: transparent;
-	stroke: rgba(0,80,255,1);
+	stroke: rgba(0, 80, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_awesome-thumbs-up_b {
 	overflow: visible;
 	position: absolute;
@@ -746,40 +846,45 @@
 	height: 38px;
 	left: 0px;
 	top: 24.531px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_weather-stars_b {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Icon_weather-stars_b {
 	overflow: visible;
 	position: absolute;
 	width: 17.184px;
 	height: 17.032px;
-	transform: translate(-1080.747px, -918.351px) matrix(1,0,0,1,1099.8141,919.775) rotate(-80deg);
+	transform: translate(-1080.747px, -918.351px) matrix(1, 0, 0, 1, 1099.8141, 919.775) rotate(-80deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #Icon_feather-star_b {
 	fill: transparent;
-	stroke: rgba(246,94,93,1);
+	stroke: rgba(246, 94, 93, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_feather-star_b {
 	overflow: visible;
 	position: absolute;
 	width: 14.693px;
 	height: 13.973px;
-	transform: translate(-1080.747px, -918.351px) matrix(1,0,0,1,1109.6761,935.7) rotate(6deg);
+	transform: translate(-1080.747px, -918.351px) matrix(1, 0, 0, 1, 1109.6761, 935.7) rotate(6deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #Group_1_ca {
 	position: absolute;
 	width: 44.312px;
@@ -788,15 +893,17 @@
 	top: 925.351px;
 	overflow: visible;
 }
+
 #Icon_awesome-thumbs-up_ca {
 	fill: transparent;
-	stroke: rgba(0,80,255,1);
+	stroke: rgba(0, 80, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_awesome-thumbs-up_ca {
 	overflow: visible;
 	position: absolute;
@@ -804,40 +911,45 @@
 	height: 38px;
 	left: 0px;
 	top: 24.531px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_weather-stars_ca {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Icon_weather-stars_ca {
 	overflow: visible;
 	position: absolute;
 	width: 17.184px;
 	height: 17.032px;
-	transform: translate(-1080.747px, -918.351px) matrix(1,0,0,1,1099.8141,919.775) rotate(-80deg);
+	transform: translate(-1080.747px, -918.351px) matrix(1, 0, 0, 1, 1099.8141, 919.775) rotate(-80deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #Icon_feather-star_ca {
 	fill: transparent;
-	stroke: rgba(246,94,93,1);
+	stroke: rgba(246, 94, 93, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_feather-star_ca {
 	overflow: visible;
 	position: absolute;
 	width: 14.693px;
 	height: 13.973px;
-	transform: translate(-1080.747px, -918.351px) matrix(1,0,0,1,1109.6761,935.7) rotate(6deg);
+	transform: translate(-1080.747px, -918.351px) matrix(1, 0, 0, 1, 1109.6761, 935.7) rotate(6deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #Group_1_cb {
 	position: absolute;
 	width: 44.312px;
@@ -846,15 +958,17 @@
 	top: 925.351px;
 	overflow: visible;
 }
+
 #Icon_awesome-thumbs-up_cb {
 	fill: transparent;
-	stroke: rgba(0,80,255,1);
+	stroke: rgba(0, 80, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_awesome-thumbs-up_cb {
 	overflow: visible;
 	position: absolute;
@@ -862,40 +976,45 @@
 	height: 38px;
 	left: 0px;
 	top: 24.531px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_weather-stars_cc {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Icon_weather-stars_cc {
 	overflow: visible;
 	position: absolute;
 	width: 17.184px;
 	height: 17.032px;
-	transform: translate(-1080.747px, -918.351px) matrix(1,0,0,1,1099.8141,919.775) rotate(-80deg);
+	transform: translate(-1080.747px, -918.351px) matrix(1, 0, 0, 1, 1099.8141, 919.775) rotate(-80deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #Icon_feather-star_cd {
 	fill: transparent;
-	stroke: rgba(246,94,93,1);
+	stroke: rgba(246, 94, 93, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_feather-star_cd {
 	overflow: visible;
 	position: absolute;
 	width: 14.693px;
 	height: 13.973px;
-	transform: translate(-1080.747px, -918.351px) matrix(1,0,0,1,1109.6761,935.7) rotate(6deg);
+	transform: translate(-1080.747px, -918.351px) matrix(1, 0, 0, 1, 1109.6761, 935.7) rotate(6deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #Individual_approach {
 	left: 132px;
 	top: 1017px;
@@ -910,8 +1029,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 18px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Reliability_and_high_quality {
 	left: 461px;
 	top: 1017px;
@@ -926,8 +1046,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 18px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Linguistic_support {
 	left: 790px;
 	top: 1017px;
@@ -942,8 +1063,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 18px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Savings_time_and_money {
 	left: 1119px;
 	top: 1017px;
@@ -958,11 +1080,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 18px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Rectangle_10 {
-	fill: rgba(247,250,255,1);
+	fill: rgba(247, 250, 255, 1);
 }
+
 .Rectangle_10 {
 	position: absolute;
 	overflow: visible;
@@ -971,10 +1095,13 @@
 	left: 0px;
 	top: 1174px;
 }
+
 #Rectangle_14 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_14 {
 	position: absolute;
 	overflow: visible;
@@ -983,10 +1110,12 @@
 	left: 727px;
 	top: 1580px;
 }
+
 #Rectangle_15 {
 	filter: blur(30px);
-	fill: rgba(0,100,255,0.722);
+	fill: rgba(0, 100, 255, 0.722);
 }
+
 .Rectangle_15 {
 	position: absolute;
 	overflow: visible;
@@ -995,6 +1124,7 @@
 	left: 117px;
 	top: 1217px;
 }
+
 #Rectangle_11 {
 	position: absolute;
 	width: 524px;
@@ -1003,9 +1133,11 @@
 	top: 1217px;
 	overflow: visible;
 }
+
 #Rectangle_12 {
-	fill: rgba(0,100,255,0.722);
+	fill: rgba(0, 100, 255, 0.722);
 }
+
 .Rectangle_12 {
 	position: absolute;
 	overflow: visible;
@@ -1014,9 +1146,11 @@
 	left: 117px;
 	top: 1217px;
 }
+
 #Ellipse_14 {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Ellipse_14 {
 	position: absolute;
 	overflow: visible;
@@ -1025,19 +1159,22 @@
 	left: 351px;
 	top: 1438px;
 }
+
 #Polygon_2 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Polygon_2 {
 	overflow: hidden;
 	position: absolute;
 	width: 26px;
 	height: 22px;
-	transform: matrix(1,0,0,1,369.948,1455.9817) rotate(90deg);
+	transform: matrix(1, 0, 0, 1, 369.948, 1455.9817) rotate(90deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
+
 #ORDERING_A_TRANSLATION_FROM_US_cp {
 	left: 727px;
 	top: 1323px;
@@ -1050,8 +1187,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 27px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #MORE_THAN_10_YEARS_OF_EXPERIEN {
 	left: 113px;
 	top: 1957px;
@@ -1064,8 +1202,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 27px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #OUR_CUSTOMER_REVIEWS {
 	left: 113px;
 	top: 3196px;
@@ -1078,8 +1217,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 27px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #Guaranteed_cs {
 	left: 727px;
 	top: 1287px;
@@ -1092,8 +1232,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 16px;
-	color: rgba(246,94,93,1);
+	color: rgba(246, 94, 93, 1);
 }
+
 #Our_Company {
 	left: 113px;
 	top: 1921px;
@@ -1106,8 +1247,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 16px;
-	color: rgba(246,94,93,1);
+	color: rgba(246, 94, 93, 1);
 }
+
 #Only_True {
 	left: 113px;
 	top: 3160px;
@@ -1120,8 +1262,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 16px;
-	color: rgba(246,94,93,1);
+	color: rgba(246, 94, 93, 1);
 }
+
 #We_know_more_than_100_language_cv {
 	left: 727px;
 	top: 1444px;
@@ -1134,8 +1277,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #We_know_more_than_100_language_cw {
 	left: 113px;
 	top: 2078px;
@@ -1148,11 +1292,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Rectangle_13 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_13 {
 	position: absolute;
 	overflow: visible;
@@ -1161,9 +1307,11 @@
 	left: 727px;
 	top: 1580px;
 }
+
 #Rectangle_18 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_18 {
 	position: absolute;
 	overflow: visible;
@@ -1172,10 +1320,13 @@
 	left: 113px;
 	top: 2214px;
 }
+
 #Rectangle_17 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_17 {
 	position: absolute;
 	overflow: visible;
@@ -1184,6 +1335,7 @@
 	left: 113px;
 	top: 2214px;
 }
+
 #OUR_SERVICES {
 	left: 751px;
 	top: 1590px;
@@ -1196,8 +1348,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #LEARN_MORE {
 	left: 137px;
 	top: 2224px;
@@ -1210,8 +1363,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Icon_feather-arrow-right {
 	position: absolute;
 	width: 15.842px;
@@ -1220,15 +1374,17 @@
 	top: 1600px;
 	overflow: visible;
 }
+
 #Path_7 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_7 {
 	overflow: visible;
 	position: absolute;
@@ -1236,17 +1392,19 @@
 	height: 2px;
 	left: 0px;
 	top: 4.391px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_8 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_8 {
 	overflow: visible;
 	position: absolute;
@@ -1254,8 +1412,9 @@
 	height: 11.605px;
 	left: 11.988px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_feather-arrow-right_c {
 	position: absolute;
 	width: 15.842px;
@@ -1264,15 +1423,17 @@
 	top: 2234px;
 	overflow: visible;
 }
+
 #Path_7_c {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_7_c {
 	overflow: visible;
 	position: absolute;
@@ -1280,17 +1441,19 @@
 	height: 2px;
 	left: 0px;
 	top: 4.391px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_8_c {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_8_c {
 	overflow: visible;
 	position: absolute;
@@ -1298,12 +1461,15 @@
 	height: 11.605px;
 	left: 11.988px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Rectangle_19 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(0,100,255,1);
+	fill: rgba(0, 100, 255, 1);
 }
+
 .Rectangle_19 {
 	position: absolute;
 	overflow: visible;
@@ -1312,9 +1478,11 @@
 	left: 727px;
 	top: 1847px;
 }
+
 #Rectangle_16 {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Rectangle_16 {
 	position: absolute;
 	overflow: visible;
@@ -1323,15 +1491,17 @@
 	left: 727px;
 	top: 1847px;
 }
+
 #Icon_awesome-handshake {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_awesome-handshake {
 	overflow: visible;
 	position: absolute;
@@ -1339,12 +1509,15 @@
 	height: 34.663px;
 	left: 815.8px;
 	top: 1896.495px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Rectangle_20 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_20 {
 	position: absolute;
 	overflow: visible;
@@ -1353,6 +1526,7 @@
 	left: 989px;
 	top: 1847px;
 }
+
 #ID3897 {
 	left: 810px;
 	top: 1945px;
@@ -1365,8 +1539,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 29px;
-	color: rgba(81,81,81,1);
+	color: rgba(81, 81, 81, 1);
 }
+
 #Happy_Clients {
 	left: 777px;
 	top: 2007px;
@@ -1381,11 +1556,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 19px;
-	color: rgba(81,81,81,1);
+	color: rgba(81, 81, 81, 1);
 }
+
 #Rectangle_16_de {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Rectangle_16_de {
 	position: absolute;
 	overflow: visible;
@@ -1394,6 +1571,7 @@
 	left: 989px;
 	top: 1847px;
 }
+
 #ID57 {
 	left: 1089px;
 	top: 1945px;
@@ -1406,8 +1584,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 29px;
-	color: rgba(81,81,81,1);
+	color: rgba(81, 81, 81, 1);
 }
+
 #Wins_in_Contests {
 	left: 1026px;
 	top: 2007px;
@@ -1422,12 +1601,15 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 19px;
-	color: rgba(81,81,81,1);
+	color: rgba(81, 81, 81, 1);
 }
+
 #Rectangle_21 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Rectangle_21 {
 	position: absolute;
 	overflow: visible;
@@ -1436,9 +1618,11 @@
 	left: 727px;
 	top: 2110px;
 }
+
 #Rectangle_16_di {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Rectangle_16_di {
 	position: absolute;
 	overflow: visible;
@@ -1447,6 +1631,7 @@
 	left: 727px;
 	top: 2110px;
 }
+
 #ID4786 {
 	left: 810px;
 	top: 2208px;
@@ -1459,8 +1644,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 29px;
-	color: rgba(81,81,81,1);
+	color: rgba(81, 81, 81, 1);
 }
+
 #Completed_Translations {
 	left: 785px;
 	top: 2270px;
@@ -1475,12 +1661,15 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 19px;
-	color: rgba(81,81,81,1);
+	color: rgba(81, 81, 81, 1);
 }
+
 #Rectangle_22 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(0,100,255,1);
+	fill: rgba(0, 100, 255, 1);
 }
+
 .Rectangle_22 {
 	position: absolute;
 	overflow: visible;
@@ -1489,9 +1678,11 @@
 	left: 989px;
 	top: 2110px;
 }
+
 #Rectangle_16_dm {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Rectangle_16_dm {
 	position: absolute;
 	overflow: visible;
@@ -1500,6 +1691,7 @@
 	left: 989px;
 	top: 2110px;
 }
+
 #ID235 {
 	left: 1081px;
 	top: 2208px;
@@ -1512,8 +1704,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 29px;
-	color: rgba(81,81,81,1);
+	color: rgba(81, 81, 81, 1);
 }
+
 #Experienced__specialists {
 	left: 1045px;
 	top: 2270px;
@@ -1528,17 +1721,19 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 19px;
-	color: rgba(81,81,81,1);
+	color: rgba(81, 81, 81, 1);
 }
+
 #Icon_ionic-ios-trophy {
 	fill: transparent;
-	stroke: rgba(246,94,93,1);
+	stroke: rgba(246, 94, 93, 1);
 	stroke-width: 1.5px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_ionic-ios-trophy {
 	overflow: visible;
 	position: absolute;
@@ -1546,17 +1741,19 @@
 	height: 43.456px;
 	left: 1082.5px;
 	top: 1896.325px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_feather-star_dq {
 	fill: transparent;
-	stroke: rgba(246,94,93,1);
+	stroke: rgba(246, 94, 93, 1);
 	stroke-width: 1.5px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Icon_feather-star_dq {
 	overflow: visible;
 	position: absolute;
@@ -1564,11 +1761,13 @@
 	height: 17.765px;
 	left: 1096.5px;
 	top: 1901.038px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_awesome-user-tie {
-	fill: rgba(0,100,255,1);
+	fill: rgba(0, 100, 255, 1);
 }
+
 .Icon_awesome-user-tie {
 	overflow: visible;
 	position: absolute;
@@ -1576,11 +1775,13 @@
 	height: 51.814px;
 	left: 1083.294px;
 	top: 2149.773px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-translate {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Icon_material-translate {
 	overflow: visible;
 	position: absolute;
@@ -1588,11 +1789,13 @@
 	height: 30px;
 	left: 827px;
 	top: 2160.825px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Rectangle_23 {
-	fill: rgba(247,250,255,1);
+	fill: rgba(247, 250, 255, 1);
 }
+
 .Rectangle_23 {
 	position: absolute;
 	overflow: visible;
@@ -1601,6 +1804,7 @@
 	left: 0px;
 	top: 2409px;
 }
+
 #Our_Company_du {
 	left: 627px;
 	top: 2509px;
@@ -1613,8 +1817,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 16px;
-	color: rgba(246,94,93,1);
+	color: rgba(246, 94, 93, 1);
 }
+
 #Profitable_and_Convenient {
 	left: 574px;
 	top: 3910px;
@@ -1627,8 +1832,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 16px;
-	color: rgba(246,94,93,1);
+	color: rgba(246, 94, 93, 1);
 }
+
 #OUR_SERVICES_dw {
 	left: 579px;
 	top: 2547px;
@@ -1641,8 +1847,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 27px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #ORDER_THE_TRANSLATION_ONLINE_W {
 	left: 265px;
 	top: 3948px;
@@ -1655,8 +1862,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 27px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #_Lorem_ipsum_dolor_sit_amet_co {
 	left: 427px;
 	top: 2603px;
@@ -1669,8 +1877,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #_Fill_out_the_form_and_we_will {
 	left: 410px;
 	top: 4017px;
@@ -1683,11 +1892,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Ellipse_15 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_15 {
 	position: absolute;
 	overflow: visible;
@@ -1696,10 +1907,13 @@
 	left: 114px;
 	top: 2748px;
 }
+
 #Ellipse_16 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_16 {
 	position: absolute;
 	overflow: visible;
@@ -1708,6 +1922,7 @@
 	left: 113px;
 	top: 2748px;
 }
+
 #Writing {
 	left: 114px;
 	top: 2842px;
@@ -1720,8 +1935,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(91,91,91,1);
+	color: rgba(91, 91, 91, 1);
 }
+
 #Writing_translation_of__any_te {
 	left: 114px;
 	top: 2888px;
@@ -1734,8 +1950,9 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Group_10 {
 	position: absolute;
 	width: 118.795px;
@@ -1744,6 +1961,7 @@
 	top: 2992px;
 	overflow: visible;
 }
+
 #TO_ORDER {
 	left: 0px;
 	top: 0px;
@@ -1756,8 +1974,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #Icon_feather-arrow-right_d {
 	position: absolute;
 	width: 15.842px;
@@ -1766,15 +1985,17 @@
 	top: 8px;
 	overflow: visible;
 }
+
 #Path_7_d {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_7_d {
 	overflow: visible;
 	position: absolute;
@@ -1782,17 +2003,19 @@
 	height: 2px;
 	left: 0px;
 	top: 4.391px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_8_d {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_8_d {
 	overflow: visible;
 	position: absolute;
@@ -1800,8 +2023,9 @@
 	height: 11.605px;
 	left: 11.988px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Group_11 {
 	position: absolute;
 	width: 118.795px;
@@ -1810,6 +2034,7 @@
 	top: 2992px;
 	overflow: visible;
 }
+
 #TO_ORDER_ea {
 	left: 0px;
 	top: 0px;
@@ -1822,8 +2047,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #Icon_feather-arrow-right_eb {
 	position: absolute;
 	width: 15.842px;
@@ -1832,15 +2058,17 @@
 	top: 8px;
 	overflow: visible;
 }
+
 #Path_7_ec {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_7_ec {
 	overflow: visible;
 	position: absolute;
@@ -1848,17 +2076,19 @@
 	height: 2px;
 	left: 0px;
 	top: 4.391px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_8_ed {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_8_ed {
 	overflow: visible;
 	position: absolute;
@@ -1866,8 +2096,9 @@
 	height: 11.605px;
 	left: 11.988px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Group_12 {
 	position: absolute;
 	width: 118.795px;
@@ -1876,6 +2107,7 @@
 	top: 2992px;
 	overflow: visible;
 }
+
 #TO_ORDER_ef {
 	left: 0px;
 	top: 0px;
@@ -1888,8 +2120,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #Icon_feather-arrow-right_eg {
 	position: absolute;
 	width: 15.842px;
@@ -1898,15 +2131,17 @@
 	top: 8px;
 	overflow: visible;
 }
+
 #Path_7_eh {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_7_eh {
 	overflow: visible;
 	position: absolute;
@@ -1914,17 +2149,19 @@
 	height: 2px;
 	left: 0px;
 	top: 4.391px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_8_ei {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_8_ei {
 	overflow: visible;
 	position: absolute;
@@ -1932,8 +2169,9 @@
 	height: 11.605px;
 	left: 11.988px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Group_13 {
 	position: absolute;
 	width: 118.795px;
@@ -1942,6 +2180,7 @@
 	top: 2992px;
 	overflow: visible;
 }
+
 #TO_ORDER_ek {
 	left: 0px;
 	top: 0px;
@@ -1954,8 +2193,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(0,100,255,1);
+	color: rgba(0, 100, 255, 1);
 }
+
 #Icon_feather-arrow-right_el {
 	position: absolute;
 	width: 15.842px;
@@ -1964,15 +2204,17 @@
 	top: 8px;
 	overflow: visible;
 }
+
 #Path_7_em {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_7_em {
 	overflow: visible;
 	position: absolute;
@@ -1980,17 +2222,19 @@
 	height: 2px;
 	left: 0px;
 	top: 4.391px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_8_en {
 	fill: transparent;
-	stroke: rgba(0,100,255,1);
+	stroke: rgba(0, 100, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_8_en {
 	overflow: visible;
 	position: absolute;
@@ -1998,11 +2242,13 @@
 	height: 11.605px;
 	left: 11.988px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Ellipse_15_eo {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_15_eo {
 	position: absolute;
 	overflow: visible;
@@ -2011,10 +2257,13 @@
 	left: 424px;
 	top: 2748px;
 }
+
 #Ellipse_17 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_17 {
 	position: absolute;
 	overflow: visible;
@@ -2023,6 +2272,7 @@
 	left: 424px;
 	top: 2748px;
 }
+
 #Oral {
 	left: 424px;
 	top: 2842px;
@@ -2035,8 +2285,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(91,91,91,1);
+	color: rgba(91, 91, 91, 1);
 }
+
 #Oral_Consistent_and_simultaneo {
 	left: 424px;
 	top: 2888px;
@@ -2049,11 +2300,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Ellipse_15_es {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_15_es {
 	position: absolute;
 	overflow: visible;
@@ -2062,10 +2315,13 @@
 	left: 734px;
 	top: 2748px;
 }
+
 #Ellipse_18 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_18 {
 	position: absolute;
 	overflow: visible;
@@ -2074,6 +2330,7 @@
 	left: 734px;
 	top: 2748px;
 }
+
 #Assurance {
 	left: 727px;
 	top: 2842px;
@@ -2086,8 +2343,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(91,91,91,1);
+	color: rgba(91, 91, 91, 1);
 }
+
 #Writing_translation_of__any_te_ev {
 	left: 727px;
 	top: 2888px;
@@ -2100,11 +2358,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Ellipse_15_ew {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_15_ew {
 	position: absolute;
 	overflow: visible;
@@ -2113,10 +2373,13 @@
 	left: 1044px;
 	top: 2748px;
 }
+
 #Ellipse_19 {
+	-webkit-filter: blur(5px);
 	filter: blur(5px);
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_19 {
 	position: absolute;
 	overflow: visible;
@@ -2125,6 +2388,7 @@
 	left: 1044px;
 	top: 2748px;
 }
+
 #Corporate {
 	left: 1043px;
 	top: 2842px;
@@ -2137,8 +2401,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(91,91,91,1);
+	color: rgba(91, 91, 91, 1);
 }
+
 #Corporate_Services_for__legal_ {
 	left: 1044px;
 	top: 2888px;
@@ -2151,11 +2416,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 17px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Icon_metro-pencil {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Icon_metro-pencil {
 	overflow: visible;
 	position: absolute;
@@ -2163,8 +2430,9 @@
 	height: 30.849px;
 	left: 133px;
 	top: 2767px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_feather-mic {
 	position: absolute;
 	width: 21px;
@@ -2173,15 +2441,17 @@
 	top: 2766px;
 	overflow: visible;
 }
+
 #Path_9 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 3px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_9 {
 	overflow: visible;
 	position: absolute;
@@ -2189,17 +2459,19 @@
 	height: 24px;
 	left: 6px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_10 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 3px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_10 {
 	overflow: visible;
 	position: absolute;
@@ -2207,17 +2479,19 @@
 	height: 16.5px;
 	left: 0px;
 	top: 13.5px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_11 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 3px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_11 {
 	overflow: visible;
 	position: absolute;
@@ -2225,17 +2499,19 @@
 	height: 9px;
 	left: 10.5px;
 	top: 27px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_12 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 3px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_12 {
 	overflow: visible;
 	position: absolute;
@@ -2243,11 +2519,13 @@
 	height: 3px;
 	left: 4.5px;
 	top: 33px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_open-document {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Icon_open-document {
 	overflow: visible;
 	position: absolute;
@@ -2255,11 +2533,13 @@
 	height: 33.498px;
 	left: 754px;
 	top: 2766px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_awesome-building {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Icon_awesome-building {
 	overflow: visible;
 	position: absolute;
@@ -2267,8 +2547,9 @@
 	height: 36px;
 	left: 1063.05px;
 	top: 2764.5px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Ellipse_20 {
 	position: absolute;
 	width: 95px;
@@ -2277,6 +2558,7 @@
 	top: 3305px;
 	overflow: visible;
 }
+
 #Alexey_Nefedorov {
 	left: 226px;
 	top: 3316px;
@@ -2289,8 +2571,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(91,91,91,1);
+	color: rgba(91, 91, 91, 1);
 }
+
 #Self_Employed_ {
 	left: 226px;
 	top: 3345px;
@@ -2303,11 +2586,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 12px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Icon_material-star {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star {
 	overflow: visible;
 	position: absolute;
@@ -2315,11 +2600,13 @@
 	height: 14.007px;
 	left: 229px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-star_fc {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_fc {
 	overflow: visible;
 	position: absolute;
@@ -2327,11 +2614,13 @@
 	height: 14.007px;
 	left: 248px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-star_fd {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_fd {
 	overflow: visible;
 	position: absolute;
@@ -2339,11 +2628,13 @@
 	height: 14.007px;
 	left: 267px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-star_fe {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_fe {
 	overflow: visible;
 	position: absolute;
@@ -2351,11 +2642,13 @@
 	height: 14.007px;
 	left: 286px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-star_ff {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_ff {
 	overflow: visible;
 	position: absolute;
@@ -2363,8 +2656,9 @@
 	height: 14.007px;
 	left: 305px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Lorem_ipsum_dolor_sit_amet_con {
 	left: 113px;
 	top: 3409px;
@@ -2377,8 +2671,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(165,164,164,1);
+	color: rgba(165, 164, 164, 1);
 }
+
 #Ellipse_20_fh {
 	position: absolute;
 	width: 95px;
@@ -2387,6 +2682,7 @@
 	top: 3305px;
 	overflow: visible;
 }
+
 #Alexey_Nefedorov_fi {
 	left: 832px;
 	top: 3316px;
@@ -2399,8 +2695,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(91,91,91,1);
+	color: rgba(91, 91, 91, 1);
 }
+
 #Self_Employed__fj {
 	left: 832px;
 	top: 3345px;
@@ -2413,11 +2710,13 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 12px;
-	color: rgba(119,117,117,1);
+	color: rgba(119, 117, 117, 1);
 }
+
 #Icon_material-star_fk {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_fk {
 	overflow: visible;
 	position: absolute;
@@ -2425,11 +2724,13 @@
 	height: 14.007px;
 	left: 835px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-star_fl {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_fl {
 	overflow: visible;
 	position: absolute;
@@ -2437,11 +2738,13 @@
 	height: 14.007px;
 	left: 854px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-star_fm {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_fm {
 	overflow: visible;
 	position: absolute;
@@ -2449,11 +2752,13 @@
 	height: 14.007px;
 	left: 873px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-star_fn {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_fn {
 	overflow: visible;
 	position: absolute;
@@ -2461,11 +2766,13 @@
 	height: 14.007px;
 	left: 892px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_material-star_fo {
-	fill: rgba(255,208,81,1);
+	fill: rgba(255, 208, 81, 1);
 }
+
 .Icon_material-star_fo {
 	overflow: visible;
 	position: absolute;
@@ -2473,8 +2780,9 @@
 	height: 14.007px;
 	left: 911px;
 	top: 3375px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Lorem_ipsum_dolor_sit_amet_con_fp {
 	left: 719px;
 	top: 3409px;
@@ -2487,11 +2795,13 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17px;
-	color: rgba(165,164,164,1);
+	color: rgba(165, 164, 164, 1);
 }
+
 #Rectangle_24 {
-	fill: rgba(247,250,255,1);
+	fill: rgba(247, 250, 255, 1);
 }
+
 .Rectangle_24 {
 	position: absolute;
 	overflow: visible;
@@ -2500,15 +2810,17 @@
 	left: 0px;
 	top: 3586px;
 }
+
 #Rectangle_25 {
 	fill: transparent;
-	stroke: rgba(112,112,112,1);
+	stroke: rgba(112, 112, 112, 1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Rectangle_25 {
 	position: absolute;
 	overflow: visible;
@@ -2517,15 +2829,17 @@
 	left: 310px;
 	top: 4128px;
 }
+
 #Rectangle_25_fs {
 	fill: transparent;
-	stroke: rgba(112,112,112,1);
+	stroke: rgba(112, 112, 112, 1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Rectangle_25_fs {
 	position: absolute;
 	overflow: visible;
@@ -2534,15 +2848,17 @@
 	left: 571px;
 	top: 4128px;
 }
+
 #Rectangle_25_ft {
 	fill: transparent;
-	stroke: rgba(112,112,112,1);
+	stroke: rgba(112, 112, 112, 1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Rectangle_25_ft {
 	position: absolute;
 	overflow: visible;
@@ -2551,6 +2867,7 @@
 	left: 832px;
 	top: 4128px;
 }
+
 #Path_13 {
 	position: absolute;
 	width: 1520.96px;
@@ -2559,9 +2876,11 @@
 	top: 4225px;
 	overflow: visible;
 }
+
 #Path_14_fw {
 	fill: url(#Path_14_fw);
 }
+
 .Path_14_fw {
 	overflow: visible;
 	position: absolute;
@@ -2569,11 +2888,13 @@
 	height: 379.498px;
 	left: -40.432px;
 	top: 4158.157px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_15_fy {
 	fill: url(#Path_15_fy);
 }
+
 .Path_15_fy {
 	overflow: visible;
 	position: absolute;
@@ -2581,11 +2902,13 @@
 	height: 407.804px;
 	left: -40.432px;
 	top: 4162.851px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Ellipse_21 {
-	fill: rgba(0,80,255,1);
+	fill: rgba(0, 80, 255, 1);
 }
+
 .Ellipse_21 {
 	position: absolute;
 	overflow: visible;
@@ -2594,9 +2917,11 @@
 	left: 165px;
 	top: 4329px;
 }
+
 #Ellipse_22 {
-	fill: rgba(246,94,93,1);
+	fill: rgba(246, 94, 93, 1);
 }
+
 .Ellipse_22 {
 	position: absolute;
 	overflow: visible;
@@ -2605,6 +2930,7 @@
 	left: 187px;
 	top: 4336px;
 }
+
 #Tr_f {
 	left: 192px;
 	top: 4337px;
@@ -2617,8 +2943,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #anslate_f {
 	left: 216px;
 	top: 4337px;
@@ -2631,8 +2958,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(0,80,255,1);
+	color: rgba(0, 80, 255, 1);
 }
+
 #Home_f {
 	left: 354px;
 	top: 4337px;
@@ -2645,8 +2973,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Benefits_f {
 	left: 463px;
 	top: 4337px;
@@ -2659,8 +2988,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Services_f {
 	left: 572px;
 	top: 4337px;
@@ -2673,8 +3003,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Reviews_f {
 	left: 681px;
 	top: 4337px;
@@ -2687,8 +3018,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Contacts_f {
 	left: 790px;
 	top: 4337px;
@@ -2701,17 +3033,19 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Ellipse_23 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Ellipse_23 {
 	position: absolute;
 	overflow: visible;
@@ -2720,6 +3054,7 @@
 	left: 185px;
 	top: 4444px;
 }
+
 #c {
 	left: 190px;
 	top: 4440px;
@@ -2732,8 +3067,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #_2020_Translate {
 	left: 209px;
 	top: 4440px;
@@ -2746,8 +3082,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 15px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #_abcdemediagmailcom {
 	left: 1102px;
 	top: 4337px;
@@ -2760,8 +3097,9 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 13px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #_8885216742 {
 	left: 1189px;
 	top: 4376px;
@@ -2774,11 +3112,13 @@
 	font-style: normal;
 	font-weight: bold;
 	font-size: 13px;
-	color: rgba(255,255,255,1);
+	color: rgba(255, 255, 255, 1);
 }
+
 #Icon_awesome-phone-alt {
-	fill: rgba(255,255,255,1);
+	fill: rgba(255, 255, 255, 1);
 }
+
 .Icon_awesome-phone-alt {
 	overflow: visible;
 	position: absolute;
@@ -2786,8 +3126,9 @@
 	height: 14.414px;
 	left: 1175px;
 	top: 4379px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Icon_feather-mail {
 	position: absolute;
 	width: 14.487px;
@@ -2796,15 +3137,17 @@
 	top: 4342.207px;
 	overflow: visible;
 }
+
 #Path_16 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_16 {
 	overflow: visible;
 	position: absolute;
@@ -2812,17 +3155,19 @@
 	height: 13.589px;
 	left: 0px;
 	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
+
 #Path_17 {
 	fill: transparent;
-	stroke: rgba(255,255,255,1);
+	stroke: rgba(255, 255, 255, 1);
 	stroke-width: 2px;
 	stroke-linejoin: round;
 	stroke-linecap: round;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
+
 .Path_17 {
 	overflow: visible;
 	position: absolute;
@@ -2830,5 +3175,5 @@
 	height: 7.463px;
 	left: 0px;
 	top: 1.449px;
-	transform: matrix(1,0,0,1,0,0);
+	transform: matrix(1, 0, 0, 1, 0, 0);
 }
